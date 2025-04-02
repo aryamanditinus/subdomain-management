@@ -38,7 +38,8 @@ This project is a web application that allows users to log in, sign up, and crea
 
 - **Sign Up**: Navigate to `signup.php` to create a new account.
 - **Log In**: Use `login.php` to access your account.
-- **Dashboard**: After logging in, you will be redirected to `dashboard.php`, where you can manage your account and create subdomains.
+- **Dashboard**: After logging in, you will be redirected to `dashboard.php`, where you can manage your account and create subdomains. and you  can also attach your custom domain to that subdomain. automatic ssl will be setup for your custom domain. when you hit your custom domain , the request will be routed through proxcy to that subdomain and in your brwoser you will still be there on your custom domain.
+- **Newest configuration**: there is a tar file "domain-management.tar.gz" . this one is the newest configuration .
 
 ## Notes
 
